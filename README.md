@@ -1,0 +1,2 @@
+# Finnance-Logger
+Typescript Studies
