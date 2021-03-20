@@ -1,3 +1,8 @@
+import { Invoice } from "./classes/invoice.js";
+
+const Inv = new Invoice("mario", "website", 40);
+console.log(Inv);
+
 const form = document.querySelector(".new-item-form") as HTMLFormElement;
 
 const type = document.querySelector("#type") as HTMLSelectElement;
