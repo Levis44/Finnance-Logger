@@ -24,10 +24,6 @@ This project needs Typescript installed in your machine.
 
 This project is under the MIT license. See the file [LICENSE.md](LICE## 🛠️ Tools
 
-- [NodeJS](https://nodejs.org)
-- [HTML](https://html5.org/)
-- [JS](https://js.org/)NSE) for more details.
-
 ---
 
 <p align="center">Done by Levi Bernardelli Ciarrocchi ✌🏼</p>
