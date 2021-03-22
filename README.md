@@ -16,13 +16,13 @@ This project needs Typescript installed in your machine.
 
 ## 🛠️ Tools
 
-- [TS](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org)
 - [HTML](https://html5.org/)
 - [JS](https://js.org/)
 
 ## 📝 License
 
-This project is under the MIT license. See the file [LICENSE.md](LICE## 🛠️ Tools
+This project is under the MIT license. See the file [LICENSE.md](LICENSE) for more details.
 
 ---
 
