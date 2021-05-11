@@ -18,7 +18,7 @@ This project needs Typescript installed in your machine.
 
 - [NodeJS](https://nodejs.org)
 - [HTML](https://html5.org/)
-- [JS](https://js.org/)
+- [TS](https://tsdoc.org/)
 
 ## 📝 License
 
